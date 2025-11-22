@@ -11,7 +11,7 @@ export default defineConfig({
 import { defineConfig } from 'astro/config';
 
 export default defineConfig({
-  // ...твои другие настройки Astro (если есть)
+  // ...твои существующие настройки (ничего не удаляй)
   vite: {
     server: {
       allowedHosts: [
